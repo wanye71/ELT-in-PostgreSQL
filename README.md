@@ -1,1 +1,1 @@
-# ELT-in-PostgreSQL
+# ELT in PostgreSQL
